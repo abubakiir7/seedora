@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ================================================================== */
+.active {
+  right: 0;
+  transition: 0.8s;
+}
+
+.close {
+  display: none;
+}
